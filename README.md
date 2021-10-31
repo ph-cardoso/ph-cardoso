@@ -18,6 +18,8 @@
     <li>📚 Sou apaixonado por tecnologia e educação </li>
     <li>🚀 Sou movido pela resolução de problemas </li>
 </ul>
+<br/>
+<br/>
 
 <!-- Redes sociais -->
 <h2 align="center">Vamos bater um papo? 👻</h2>
@@ -35,6 +37,7 @@
     </a>
 </div>
 <br/>
+<br/>
 
 <h2 align="center">Tecnologias que fazem parte do meu dia a dia 🚀</h2>
 <br/>
@@ -49,6 +52,7 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
+<br/>
 <br/>
 
 <!-- Sobre mim -->
