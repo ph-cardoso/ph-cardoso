@@ -5,21 +5,23 @@
 
 <!-- Banner -->
 <p align="center">
-    <img style="border-radius: 25px;" src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" alt="city banner gif" />
+    <img src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" alt="city banner gif" />
 </p>
 
 <!-- Sobre mim -->
-<h2 style="text-align: center; margin: 2rem 0; font-weight: 500;">Um pouquinho sobre mim 👾</h2>
+<h2 align="center">Um pouquinho sobre mim 👾</h2>
+
 <ul style="font-size: 1.2rem">
     <li>🐱‍👤 Meu nome é Pedro Cardoso </li>
     <li>🏠 Sou de Brasília - DF </li>
     <li>🎓 Estou cursando graduação em Engenharia da Computação</li>
     <li>📚 Sou apaixonado por tecnologia e educação </li>
     <li>🚀 Sou movido pela resolução de problemas </li>
-  </ul>
+</ul>
 
 <!-- Redes sociais -->
-## Vamos bater um papo? 👻
+<h2 align="center">Vamos bater um papo? 👻</h2>
+
 <br/>
 <div style="display: inline-block">
     <a href="https://www.linkedin.com/in/pedroh-cardoso/" targer="_blank">
@@ -34,7 +36,7 @@
 </div>
 <br/>
 
-## Tecnologias que fazem parte do meu dia a dia 🚀
+<h2 align="center">Tecnologias que fazem parte do meu dia a dia 🚀</h2>
 <br/>
 
 
