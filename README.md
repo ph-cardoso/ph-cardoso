@@ -23,7 +23,7 @@
 <h2 align="center">Vamos bater um papo? 👻</h2>
 
 <br/>
-<div style="display: inline-block">
+<div align="center" style="display: inline-block">
     <a href="https://www.linkedin.com/in/pedroh-cardoso/" targer="_blank">
         <img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
