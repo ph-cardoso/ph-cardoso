@@ -1,8 +1,5 @@
 <!-- Hello There Title -->
-<h1 style="text-align: center; font-weight: 500;">
-    <img style="width: 2.5rem" src="./assets/obiwan-icon.png" alt="obiwan icon">
-    Hello there!
-    <img style="width: 2.5rem" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand gif" />
+# <img width="35px" src="./assets/obiwan-icon.png" alt="obiwan icon"> Hello there! <img width="40px" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand gif" />
 </h1>
 
 <!-- Banner -->
@@ -19,9 +16,9 @@
   </ul>
 
 <!-- Redes sociais -->
-<h2 style="text-align: center; margin: 2rem 0; font-weight: 500;">Vamos bater um papo? 👻</h2>
-
-<div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
+## Vamos bater um papo? 👻
+<br/>
+<div style="display: inline-block">
     <a href="https://www.linkedin.com/in/pedroh-cardoso/" targer="_blank">
         <img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -32,10 +29,14 @@
         <img align="center" alt="c" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
     </a>
 </div>
+<br/>
+<br/>
 
-<h2 style="text-align: center; margin: 2rem 0; font-weight: 500;">Tecnologias que fazem parte do meu dia a dia 🚀</h2>
+## Tecnologias que fazem parte do meu dia a dia 🚀
+<br/>
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
+
+<div style="display: inline-block;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -46,20 +47,11 @@
 </div><br/>
 
 <!-- Sobre mim -->
-<h2 style="text-align: center; margin: 2rem 0; font-weight: 500;">
-    Github Stats
-    <img style="width: 2rem" src="./assets/github-icon.svg"/>
-</h2>
+## Github Stats <img style="width: 2rem" src="./assets/github-icon.svg"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ph-cardoso&count_private=true&hide=stars,issues&show_icons=true&theme=dark" alt="Pedro Cardoso's GitHub stats"/>
 
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=ph-cardoso&count_private=true&hide=stars,issues&show_icons=true&theme=dark" alt="Pedro Cardoso's GitHub stats"/>
-</div>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cardoso&theme=dark" alt="most used languages"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cardoso&theme=dark" alt="most used languages"/>
 
-</div>
-<div>
-    <img style="border-radius: 1rem;"  src="https://i.pinimg.com/originals/7a/6e/9f/7a6e9f827f009db075bea9d6d3fbf2ca.gif" alt="pixel city gif"/>
-</div>
+<img width="em" style="border-radius: 1rem;"  src="https://i.pinimg.com/originals/7a/6e/9f/7a6e9f827f009db075bea9d6d3fbf2ca.gif" alt="pixel city gif"/>
