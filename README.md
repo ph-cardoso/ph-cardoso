@@ -53,13 +53,13 @@
 
 
 <div>
-    <img style="width: 100%;"  src="https://github-readme-stats.vercel.app/api?username=ph-cardoso&count_private=true&hide=stars,issues&show_icons=true&theme=dark" alt="Pedro Cardoso's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ph-cardoso&count_private=true&hide=stars,issues&show_icons=true&theme=dark" alt="Pedro Cardoso's GitHub stats"/>
 </div>
 <div>
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cardoso&theme=dark" alt="most used languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cardoso&theme=dark" alt="most used languages"/>
 </div>
 
 </div>
 <div>
-    <img style="width: 100%; border-radius: 1rem;"  src="https://i.pinimg.com/originals/7a/6e/9f/7a6e9f827f009db075bea9d6d3fbf2ca.gif" alt="pixel city gif"/>
+    <img style="border-radius: 1rem;"  src="https://i.pinimg.com/originals/7a/6e/9f/7a6e9f827f009db075bea9d6d3fbf2ca.gif" alt="pixel city gif"/>
 </div>
