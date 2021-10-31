@@ -19,7 +19,6 @@
     <li>🚀 Sou movido pela resolução de problemas </li>
 </ul>
 <br/>
-<br/>
 
 <!-- Redes sociais -->
 <h2 align="center">Vamos bater um papo? 👻</h2>
@@ -55,10 +54,11 @@
 <br/>
 <br/>
 
-<!-- Sobre mim -->
+<!-- Github stats -->
 <h2 align="center">Github Stats 🔎</h2>
 
 <br/>
-
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ph-cardoso&count_private=true&hide=stars,issues&show_icons=true&theme=dark" alt="Pedro Cardoso's GitHub stats"/>
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cardoso&layout=compact&theme=dark" alt="most used languages"/>
+<p align="center">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=ph-cardoso&count_private=true&hide=stars,issues&show_icons=true&theme=dark" alt="Pedro Cardoso's GitHub stats"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cardoso&layout=compact&theme=dark" alt="most used languages"/>
+</p>
