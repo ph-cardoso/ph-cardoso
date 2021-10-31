@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-    <img width="75%" src="https://i.pinimg.com/originals/fa/dc/b2/fadcb24075acb650de29f258af69d830.gif" alt="city banner gif" />
+    <img width="50" src="https://i.pinimg.com/originals/fa/dc/b2/fadcb24075acb650de29f258af69d830.gif" alt="city banner gif" />
 </p>
 
 <!-- Sobre mim -->
