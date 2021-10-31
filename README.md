@@ -6,7 +6,7 @@
 </h1>
 
 <!-- Banner -->
-<img style="border-radius: 1rem;" src="https://i.pinimg.com/originals/fa/dc/b2/fadcb24075acb650de29f258af69d830.gif" alt="city banner gif" />
+<img src="https://i.pinimg.com/originals/fa/dc/b2/fadcb24075acb650de29f258af69d830.gif" alt="city banner gif" />
 
 <!-- Sobre mim -->
 <h2 style="text-align: center; margin: 2rem 0; font-weight: 500;">Um pouquinho sobre mim 👾</h2>
@@ -51,29 +51,15 @@
     <img style="width: 2rem" src="./assets/github-icon.svg"/>
 </h2>
 
-<div style="
-    display: grid;
-    grid-template-columns: 1.2fr 0.8fr;
-    grid-template-rows: 1fr 1fr;
-    gap: 0px 1rem;
-    align-items: center;
-">
-    <div style="
-        grid-column: 1;
-        grid-row: 1/span 2;
-        display: flex;
-        flex-direction: column;
-        gap: 2.5rem;
-        align-items: center;
-    ">
-        <div style="margin: 0; padding: 0;">
-            <img style="width: 100%;"  src="https://github-readme-stats.vercel.app/api?username=ph-cardoso&count_private=true&hide=stars,issues&show_icons=true&theme=dark" alt="Pedro Cardoso's GitHub stats"/>
-        </div>
-        <div style=" margin: 0; padding: 0;">
-            <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cardoso&theme=dark" alt="most used languages"/>
-        </div>
-    </div>
-    <div style="grid-column: 2; grid-row: 1 / span 2; margin: 0; padding: 0;">
-        <img style="width: 100%; border-radius: 1rem;"  src="https://i.pinimg.com/originals/7a/6e/9f/7a6e9f827f009db075bea9d6d3fbf2ca.gif" alt="pixel city gif"/>
-    </div>
+
+<div>
+    <img style="width: 100%;"  src="https://github-readme-stats.vercel.app/api?username=ph-cardoso&count_private=true&hide=stars,issues&show_icons=true&theme=dark" alt="Pedro Cardoso's GitHub stats"/>
+</div>
+<div>
+    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cardoso&theme=dark" alt="most used languages"/>
+</div>
+
+</div>
+<div>
+    <img style="width: 100%; border-radius: 1rem;"  src="https://i.pinimg.com/originals/7a/6e/9f/7a6e9f827f009db075bea9d6d3fbf2ca.gif" alt="pixel city gif"/>
 </div>
