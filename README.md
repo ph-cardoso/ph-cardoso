@@ -1,9 +1,12 @@
 <!-- Hello There Title -->
-# <img width="35px" src="./assets/obiwan-icon.png" alt="obiwan icon"> Hello there! <img width="40px" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand gif" />
+<h1 align="center">
+<img width="35px" src="./assets/obiwan-icon.png" alt="obiwan icon"> Hello there! <img width="40px" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand gif" />
 </h1>
 
 <!-- Banner -->
-<img align="center" width="75%" src="https://i.pinimg.com/originals/fa/dc/b2/fadcb24075acb650de29f258af69d830.gif" alt="city banner gif" />
+<p align="center">
+    <img width="75%" src="https://i.pinimg.com/originals/fa/dc/b2/fadcb24075acb650de29f258af69d830.gif" alt="city banner gif" />
+</p>
 
 <!-- Sobre mim -->
 <h2 style="text-align: center; margin: 2rem 0; font-weight: 500;">Um pouquinho sobre mim 👾</h2>
