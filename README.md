@@ -26,13 +26,16 @@
 <br/>
 <div align="center" style="display: inline-block">
     <a href="https://www.linkedin.com/in/pedroh-cardoso/" targer="_blank">
-        <img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:phlc.dev@gmail.com" targer="_blank">
-        <img align="center" alt="css" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://steamcommunity.com/id/ph-cardoso" targer="_blank">
-        <img align="center" alt="c" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+        <img alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+    </a>
+    <a href="https://t.me/phcardoso" targer="_blank">
+        <img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
 </div>
 <br/>
