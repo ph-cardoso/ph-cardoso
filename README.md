@@ -44,14 +44,15 @@
     <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+</div>
+<br/>
+<br/>
 
 <!-- Sobre mim -->
-## Github Stats <img style="width: 2rem" src="./assets/github-icon.svg"/>
+## Github Stats 🔎
 
-<img src="https://github-readme-stats.vercel.app/api?username=ph-cardoso&count_private=true&hide=stars,issues&show_icons=true&theme=dark" alt="Pedro Cardoso's GitHub stats"/>
+<br/>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ph-cardoso&count_private=true&hide=stars,issues&show_icons=true&theme=dark" alt="Pedro Cardoso's GitHub stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cardoso&theme=dark" alt="most used languages"/>
-
-<img width="em" style="border-radius: 1rem;"  src="https://i.pinimg.com/originals/7a/6e/9f/7a6e9f827f009db075bea9d6d3fbf2ca.gif" alt="pixel city gif"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cardoso&theme=dark" alt="most used languages"/>
