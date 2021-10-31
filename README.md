@@ -52,7 +52,7 @@
 <br/>
 
 <!-- Sobre mim -->
-## Github Stats 🔎
+<h2 align="center">Github Stats 🔎</h2>
 
 <br/>
 
