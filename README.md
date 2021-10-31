@@ -3,7 +3,7 @@
 </h1>
 
 <!-- Banner -->
-<img src="https://i.pinimg.com/originals/fa/dc/b2/fadcb24075acb650de29f258af69d830.gif" alt="city banner gif" />
+<img align="center" width="75%" src="https://i.pinimg.com/originals/fa/dc/b2/fadcb24075acb650de29f258af69d830.gif" alt="city banner gif" />
 
 <!-- Sobre mim -->
 <h2 style="text-align: center; margin: 2rem 0; font-weight: 500;">Um pouquinho sobre mim 👾</h2>
