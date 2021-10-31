@@ -30,7 +30,6 @@
     </a>
 </div>
 <br/>
-<br/>
 
 ## Tecnologias que fazem parte do meu dia a dia 🚀
 <br/>
