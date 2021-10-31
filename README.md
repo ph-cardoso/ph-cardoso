@@ -51,6 +51,8 @@
 
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ph-cardoso&count_private=true&hide=stars,issues&show_icons=true&theme=dark" alt="Pedro Cardoso's GitHub stats"/>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ph-cardoso&count_private=true&hide=stars,issues&show_icons=true&theme=dark" alt="Pedro Cardoso's GitHub stats"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cardoso&theme=dark" alt="most used languages"/>
+<br/>
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cardoso&layout=compact&theme=dark" alt="most used languages"/>
