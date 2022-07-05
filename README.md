@@ -34,9 +34,6 @@
     <a href="https://steamcommunity.com/id/ph-cardoso" targer="_blank">
         <img alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
     </a>
-    <a href="https://t.me/phcardoso" targer="_blank">
-        <img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
 </div>
 <br/>
 <br/>
