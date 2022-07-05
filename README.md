@@ -1,6 +1,6 @@
 <!-- Hello There Title -->
 <h1 align="center">
-<img width="35px" src="./assets/obiwan-icon.png" alt="obiwan icon"> Hello there! <img width="40px" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand gif" />
+<img width="12px" src="./assets/obiwan-icon.png" alt="obiwan icon"> Hello there! <img width="40px" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand gif" />
 </h1>
 
 <!-- Banner -->
