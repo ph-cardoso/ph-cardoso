@@ -21,7 +21,7 @@
 <br/>
 
 <!-- Redes sociais -->
-<h2 align="center">Vamos bater um papo? 👻</h2>
+<h2 align="center">Vamos bater um papo?</h2>
 
 <br/>
 <div align="center" style="display: inline-block">
@@ -30,9 +30,6 @@
     </a>
     <a href="mailto:phlc.dev@gmail.com" targer="_blank">
         <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://steamcommunity.com/id/ph-cardoso" targer="_blank">
-        <img alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
     </a>
 </div>
 <br/>
