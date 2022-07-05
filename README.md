@@ -9,10 +9,10 @@
 </p>
 
 <!-- Sobre mim -->
-<h2 align="center">Um pouquinho sobre mim 👾</h2>
+<h2 align="center">Sobre mim 👾</h2>
 
 <ul style="font-size: 1.2rem">
-    <li>🐱‍👤 Meu nome é Pedro Cardoso </li>
+    <li>👤 Meu nome é Pedro Cardoso </li>
     <li>🏠 Sou de Brasília - DF </li>
     <li>🎓 Estou cursando graduação em Engenharia da Computação</li>
     <li>📚 Sou apaixonado por tecnologia e educação </li>
