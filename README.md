@@ -1,13 +1,3 @@
-<!-- Hello There Title -->
-<h1 align="center">
-<img width="34px" src="./assets/obiwan-icon.png" alt="obiwan icon"> Hello there!
-</h1>
-
-<!-- Banner -->
-<p align="center">
-    <img src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" alt="city banner gif" />
-</p>
-
 <!-- Sobre mim -->
 <h2 align="center">Sobre mim 👾</h2>
 
@@ -21,15 +11,12 @@
 <br/>
 
 <!-- Redes sociais -->
-<h2 align="center">Vamos bater um papo?</h2>
+<h2 align="center">Redes sociais</h2>
 
 <br/>
 <div align="center" style="display: inline-block">
     <a href="https://www.linkedin.com/in/pedroh-cardoso/" targer="_blank">
         <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:phlc.dev@gmail.com" targer="_blank">
-        <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </div>
 <br/>
